@@ -1,0 +1,45 @@
+Texto correo 1
+(asunto): alta de contrato 
+ 
+
+Estimado cliente X, (¿personalizable con persona de contacto?)
+ 
+
+Remitimos este correo para confirmar su alquiler de espacios publicitarios con nuestra empresa mediante la firma del contrato adjunto. 
+ 
+
+Atentamente, Saile Publicidad Exterior, S.L.
+ 
+
+ 
+
+ 
+
+Texto  correo 2
+(asunto): cambio de material
+ 
+
+Estimado cliente X(¿personalizable?),
+ 
+
+Notificamos mediante este correo la reposición de la cartelería de su valla X (¿nombre valla o enlace a valla?) conforme a lo suscrito en el contrato X.
+ 
+
+Atentamente, Saile Publicidad Exterior, S.L.
+ 
+
+ 
+
+Texto correo 3 (30 días antes)
+(asunto): fin de contrato 
+ 
+
+Estimado cliente X(¿personalizable?),
+ 
+
+Notificamos mediante este correo la proximidad a la finalización del contrato de su alquiler de vallas X,
+Recordarle que conforme a lo acordado en el contrato quedará automáticamente renovado por el mismo periodo de tiempo si no expresa su deseo de cancelarlo.
+ 
+
+Atentamente, Saile Publicidad Exterior, S.L.
+ 
